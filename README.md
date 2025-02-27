@@ -94,6 +94,16 @@ JailBench 是评估大型语言模型多领域越狱攻击风险的中文数据�
     [3] https://github.com/tmlr-group/deepinception
     [4] https://github.com/sherdencooper/gptfuzz
 
+## 引用
+```bibtex
+@article{liu2025jailbench,
+  title   = {JailBench: A Comprehensive Chinese Security Assessment Benchmark for Large Language Models},
+  author  = {Shuyi Liu and Simiao Cui and Haoran Bu and Yuming Shang and Xi Zhang},
+  year    = {2025},
+  journal = {arXiv preprint arXiv: 2502.18935}
+}
+```
+
 ## 关于我们
 
 STAIR (Secure and Trustworthy AI Research) 团队隶属于北京邮电大学网络空间安全学院和可信分布式计算与服务教育部重点实验室。团队主要研究安全可信人工智能技术，及在网络空间治理领域的应用，近年来在网络内容与行为分析、大模型安全等方面承担了国家重点研发计划等多项重要科研任务。
